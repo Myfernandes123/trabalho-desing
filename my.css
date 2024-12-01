@@ -1,0 +1,20 @@
+
+
+body {
+  background-color: rgb(161, 159, 159);
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 36px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  line-height: 1.6;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}

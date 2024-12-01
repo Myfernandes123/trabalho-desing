@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+      
+  <head>
+    <title> sobre-mim </title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <blockquote>
+        "Myllena Areda Fernandes, 19 anos, exercendo a função de Oficial Auxiliar no 8º Ofício de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na instituição 'Projeção'. Tenho como objetivo o aprimoramento profissional na área da tecnologia, com foco no desenvolvimento de competências no âmbito digital."
+    </blockquote>
+
+    <p>No cartório em que atuo como Oficial, tenho habilidades em processos de casamento, discursos, leitura de processos administrativos e judiciais, além de resolução de conflitos envolvendo terceiros.</p>
+
+    <p>Tenho formação e domínio na língua inglesa, o que facilita na compreensão de códigos, já que muitos termos técnicos estão em inglês. Desde os 14 anos, atuo no atendimento ao público, sabendo lidar com situações adversas e demandas de usuários.</p>
+
+    <p>Tenho apreço por esportes automobilísticos, com destaque para a Fórmula 1. Além disso, sou entusiasta de leitura e aprecio profundamente a música.</p>
+
+    <p>Possuo um forte interesse no campo da programação, dedicando-me ao aprimoramento de habilidades técnicas e ao estudo contínuo de novas linguagens e tecnologias.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FNuSg7cvmsE?si=MYCaigNCQV05xXxY&amp;start=504" 
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+  </body>
+</html>
